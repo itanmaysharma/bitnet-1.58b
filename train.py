@@ -18,7 +18,7 @@ from datasets import load_dataset
 CUDA_DEVICE = 'cuda'
 CPU_DEVICE = 'cpu'
 WANDB_TOKEN = 'daa53cc82d1d36b20894bdfb5c0d940f71df1cae'
-HF_TOKEN = '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'
+HF_TOKEN = 'hf'
 DATASET = "abideen/Cosmopedia-100k-pretrain"
 MODEL_CONFIG = "NousResearch/Llama-2-7b-hf"
 
